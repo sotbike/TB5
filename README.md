@@ -1,5 +1,5 @@
 # TB5
-meta-analysis data accompanied by code (minor complications after robotic vs. open partial nephrectomy)
+meta-analysis data accompanied by code (outcome: minor complications after robotic vs. open partial nephrectomy)
 
 R code is included for the implementation of fixed and random effects models
 
